@@ -27,8 +27,6 @@ int work [ rows ][ cols ];
 // Uses the thread ID (passed in from main()) to determine the first row for each thread and then advance
 // the row number by num_threads to determine the next row to process.
 //
-// @Note: A lot of this code is based of the C++ threads video.
-//
 // @param int tid: Represents the thread ID
 // @param int num_threads: Represents the number of threads
 //
