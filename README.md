@@ -1,4 +1,4 @@
-# concurrent-threads
+# Multithreaded Matrix Summation
 
 This C++ program demonstrates the usage of threads to perform row-wise summation of a matrix. It provides two options for load balancing: static and dynamic. The program accepts command-line parameters to specify the load balancing method and the number of threads to use.
 
