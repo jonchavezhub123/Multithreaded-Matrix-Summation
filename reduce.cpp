@@ -1,13 +1,3 @@
-//*************************************************************************
-//
-//    Jonathan Chavez
-//    Z1866268
-//    CSCI 463 Section 1
-//
-//    I certify that this is my own work and where appropriate an extension 
-//    of the starter code provided for the assignment.  
-//
-//****************************************************************************/
 #include <iostream>
 #include <unistd.h>
 #include <vector>
