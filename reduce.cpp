@@ -213,8 +213,6 @@ int main(int argc, char **argv)
 			threads.push_back(new thread(sum_dynamic,i));
 	}
 
-
-	// Got this code from C++ thread video
 	int total_work = 0;
 	for(uint i = 0; i < num; i++)
 	{
